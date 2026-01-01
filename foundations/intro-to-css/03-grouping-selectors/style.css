@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.btn{
+    font-size: 28px;
+    font-family: Helvetica,"Times New Roman",sans-serif;
+}
+
+.he{
+    background-color: black;
+    color: white;
+}
+
+.she{
+    background-color: yellow;
+}
